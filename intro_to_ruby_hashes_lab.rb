@@ -1,11 +1,12 @@
 def new_hash
   new_hash = {}
   puts new_hash
-  
-
 end
 
 def actor
+  actor = {:name => "Jennifer Lawrence"}
+  
+end
 
 end
 
