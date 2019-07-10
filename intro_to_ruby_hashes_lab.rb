@@ -5,7 +5,6 @@ end
 
 def actor
   actor = {:name => "Jennifer Lawrence"}
-  
 end
 
 end
